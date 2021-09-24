@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HePmfbqD-MUb8jtpUZ9NFssodpgSJcy8?usp=sharing)
-
+PLEASE USE THIS PROJECT ETHICALLY
 
 
 # Virtual Try On Project
